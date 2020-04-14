@@ -14,7 +14,7 @@ const App = () => (
             <Link to="/">
                 Users
             </Link>
-            <Link to="/">
+            <Link to="/pizza">
                 Pizza
             </Link>
         </div>
